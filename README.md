@@ -97,6 +97,6 @@ This page will provide you with the full list of keys you can use to customize y
 
 After making your changes don't forget to save the file
 
-1. Click File → Save in Notepad (or use Ctrl + S).
+- Click File → Save in Notepad (or use Ctrl + S).
 
 Now when you run the script again, it will respond to the new hotkey you've set.
