@@ -1,4 +1,6 @@
-﻿F10::
+#SingleInstance force
+
+F10::
 {
     ; Get the path of the current AutoHotkey script
     scriptDir := A_ScriptDir
